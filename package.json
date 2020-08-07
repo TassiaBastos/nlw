@@ -1,5 +1,5 @@
 {
-  "name": "Proffy-Study-Platform",
+  "name": "nlw",
   "version": "1.0.0",
   "description": "<h1 align=\"center\">Proffy-Study-Platform</h1> <h4 align=\"center\">  \t🚧  Proffy Study Platform 🚀 Under construction...  🚧 </h4>",
   "main": "index.js",
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TassiaBastos/Proffy-Study-Platform.git"
+    "url": "git+https://github.com/TassiaBastos/nlw.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TassiaBastos/Proffy-Study-Platform/issues"
+    "url": "https://github.com/TassiaBastos/nlw/issues"
   },
-  "homepage": "https://github.com/TassiaBastos/Proffy-Study-Platform#readme"
+  "homepage": "https://github.com/TassiaBastos/nlw#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
