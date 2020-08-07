@@ -1,23 +1,12 @@
 {
   "name": "nlw",
-  "version": "1.0.0",
-  "description": "<h1 align=\"center\">Proffy-Study-Platform</h1> <h4 align=\"center\">  \t🚧  Proffy Study Platform 🚀 Under construction...  🚧 </h4>",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TassiaBastos/nlw.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TassiaBastos/nlw/issues"
-  },
-  "homepage": "https://github.com/TassiaBastos/nlw#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
