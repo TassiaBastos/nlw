@@ -1,0 +1,20 @@
+{
+  "name": "Proffy-Study-Platform",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Proffy-Study-Platform</h1> <h4 align=\"center\">  \t🚧  Proffy Study Platform 🚀 Under construction...  🚧 </h4>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TassiaBastos/Proffy-Study-Platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TassiaBastos/Proffy-Study-Platform/issues"
+  },
+  "homepage": "https://github.com/TassiaBastos/Proffy-Study-Platform#readme"
+}
